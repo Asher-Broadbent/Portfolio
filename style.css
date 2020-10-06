@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  margin: 0px;
+  padding: 30px;
+  font-weight: bolder;
+  font-size: 3.5rem;
+}
+
+.tabhead {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #39f;
+}
+body {
+  background-color:#fff;
+}
+
+main {
+
+}
+
+.topbg {
+  background-color: #eeeeee;
+  margin: 0px;
+}
