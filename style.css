@@ -13,7 +13,8 @@ h1 {
   color: #39f;
 }
 body {
-  background-color:#fff;
+  background-color: #686d76;
+  text-align: center;
 }
 
 main {
@@ -23,4 +24,8 @@ main {
 .topbg {
   background-color: #eeeeee;
   margin: 0px;
+}
+.standalone {
+  text-align: center;
+  font-size: 1.1rem;
 }
