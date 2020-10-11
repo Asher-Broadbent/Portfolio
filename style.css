@@ -33,3 +33,12 @@ main {
 .uk-class-default {
   background: #eeeeee;
 }
+
+footer {
+  background-color: #eeeeee
+}
+
+.port {
+  width: 80%;
+  margin: auto;
+}
